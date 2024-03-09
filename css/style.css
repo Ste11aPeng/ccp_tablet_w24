@@ -34,7 +34,7 @@ img {
 }
 /* 这是一些字体啥的还有默认值 */
 body {
-    font-family: montserrat, Arial, Helvetica, sans-serif;
+    font-family: montserrat, Arial, Helvetica, Verdana, sans-serif;
     color: #363636;
     line-height: 1.5;
     overflow-x: hidden;
@@ -52,7 +52,7 @@ h3 {
 h1 {
     color: #9E2A2B;
     padding: 30px;
-    font-family: montserrat, sans-serif;
+    font-family: montserrat, Arial, sans-serif;
     font-size: 50px;
     font-weight: 800;
     line-height: 1em;
